@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoographiarosso00pallgoog_0008.png"; bbox 0 0 4404 5902; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 402 1838 1534 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 402 1838 1534 1970">
+     <span class='ocr_line' id='line_1_1' title="bbox 402 1838 1534 1970; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 402 1838 405 1845; x_wconf 69' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 518 1852 589 1969; x_wconf 91' lang='grc' dir='ltr'><strong>Ρ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 668 1849 730 1968; x_wconf 87' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 807 1845 1534 1970; x_wconf 84' lang='lat' dir='ltr'><strong>PALLASII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 174 2121 2183 2396">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 174 2121 2183 2396">
+     <span class='ocr_line' id='line_1_2' title="bbox 174 2121 2183 2396; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 174 2121 863 2396; x_wconf 70' lang='lat' dir='ltr'><strong>zoocssAPfflA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 930 2232 1870 2395; x_wconf 73' lang='lat' dir='ltr'><strong>noss0·²As1AT1‹:A.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2180 2308 2183 2312; x_wconf 91' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 873 2662 1188 2681">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 873 2662 1188 2681">
+     <span class='ocr_line' id='line_1_3' title="bbox 873 2662 1188 2681; baseline 0.019 -6"><span class='ocrx_word' id='word_1_8' title='bbox 873 2662 1188 2681; x_wconf 47' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2206 5892">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2206 5892">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2206 5892; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2206 5892; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
